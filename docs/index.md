@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Universal Discourse (UniDis) annotations
 
-You can use the [editor on GitHub](https://github.com/UniversalDiscourse/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An attempt to develop a uniform ("universal") annotation scheme and data for the **annotation of discourse relations**, following the spirit of [Universal Dependencies](https://universaldependencies.org), [Universal Propositions](https://github.com/System-T/UniversalPropositions), [Universal Morphology](https://unimorph.github.io/), [Universal Derivations](https://ufal.mff.cuni.cz/universal-derivations) and [Universal Anaphora](https://github.com/UniversalAnaphora).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Right now, this is an incubator project initiated in the context of the Cost Action [Nexus Linguarum. European network for Web-centred linguistic data science](https://www.cost.eu/actions/CA18209/) (CA 18209, 2019-2023). Content, goals, specs and data yet to come ;)
 
-### Markdown
+## This Repo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Is to host the public website, put website content under `docs/` (main branch), for source data and build scripts, create separate folders.
 
-```markdown
-Syntax highlighted code block
+## Content and Contact
 
-# Header 1
-## Header 2
-### Header 3
+There are two parallel, and overlapping activities:
+- *research channel* (for publications, meetings, grant proposals): Nexus Linguarum, WG4, T4.2 (UC 4.2.2), see [here](https://nexuslinguarum.eu/the-action/join-us) how to get involved.
+- *public data channel* (developing UniDis schema, providing UniDis data, preparing a Shared Task): Google Group [udisc@googlegroups.com](udisc@googlegroups.com) (**TBC**) 
 
-- Bulleted
-- List
+- Code and public data resides in [GitHub](https://github.com/UniversalDiscourse)
+- Internal (Nexus) discussions in [Nexus Google Drive](https://drive.google.com/drive/folders/1mPVw67e41EapBeSHdQYFlMp3pNyU0J5p?usp=sharing)
 
-1. Numbered
-2. List
+## History
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UniversalDiscourse/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 2022-05-24 initial conception at the Nexus Linguarum Workshop on [Discourse Studies and Linguistic Data Science (DisLiDaS 2022)](https://dislidas.mozajka.co/), Jerusalem, Israel, May 24, 2022
